@@ -4,7 +4,7 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Project Example
+org_name: Rock Your iPhone
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
   A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
@@ -13,18 +13,18 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 #OPTIONAL
 #Non US-address support coming soon
 org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_street_address: 6086 S Lamar Dr
+org_address_suite:
+org_city: Littleton
+org_state: CO
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  80123
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+  (303) 435-7657
 
-#SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
+#TWITTER ACCOUNT
+org_twitter_username: RockYouriPhone
+org_facebook_username:
 org_instagram_username:
 
 #TAX STATUS
@@ -43,11 +43,11 @@ tinyletter_username: interestingnonprofits
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
-publish: false
+publish: true
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
-theme: default
+theme: one
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
