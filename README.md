@@ -1,16 +1,7 @@
-## A Free Website Template for Nonprofits
-We want to help introduce the nonprofit community to the powerful world of open source development. Just follow the step-by-step instructions below, and in less than an hour your grassroots nonprofit will have a live, no-cost website complete with online donation capabilities.
+# Rock Your iPhone Official Website
+This is the source code to the official website of Rock Your iPhone, the predecessor to Rock Your Phone, and offical developers of RockApp 3. The Rock platform extends the user experience from just a mobile device to the Web, making it easy and convenient for users to discover new packages, start free trials, and purchase a package. Rock is the first mobile market provider to fully expand the experience to the web.
 
-But most importantly, by hosting your site and its code on Github you'll allow volunteers to easily contribute to ongoing development of your site.  
-
-___
-#### No Coding Skills Required  
-If you're the type of person that can set up email on your smartphone, you likely have all the skills needed to take advantage of this template. This isn't that hard...you can do it! :smile:
-
-___
-#### Help Others Help You  
-Github makes it crazy simple for people to help with your site. Whether it's volunteers or paid contractors, you're always just a few clicks away from accepting improvements.       
-___
+Available packages are showcased on the Rock Your iPhone website, where customers can create user accounts, free of charge, which will allow them to access the Rock services from their computer as well as their mobile device. Once the free account has been setup, the user can initiate free 10-day trials of any of the packages that Rock has to offer. This unique approach enables customers to verify a package's capabilities, without having to rely on an unvalidated review process.
 
 #### Features  
 1. Accept online donations  
